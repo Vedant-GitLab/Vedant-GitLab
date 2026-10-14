@@ -14,7 +14,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vedant-tiwari-133531285/" target="_blank">
-  <a href="https://www.instagram.com/venu.1i/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
